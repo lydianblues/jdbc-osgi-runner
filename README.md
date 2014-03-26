@@ -1,4 +1,5 @@
-osgi-jdbc-service
-=================
+jdbc-osgi-runner
+================
 
-Demo of using OSGi registry with a DataSourceFactory service instead of JNDI to to lookup DataSource.
+Combines the "osgi-launcher" project and the "jdbc-osgi" projects to create
+a runnable application.
